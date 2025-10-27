@@ -1,0 +1,213 @@
+*{
+    padding: 0%;
+    margin: 0%; 
+   box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#main{
+    height: 100%;
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#header{
+    height: 13%;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: white;
+}
+
+#logo{
+    height: 70%;
+    padding-top: 10px;
+}
+
+#logo img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+#fakeheader{
+    height: 13%;
+    width: 100%;
+}
+#page1{
+    height: 87%;
+    width: 100%;
+}
+#strip{
+    height: 9%;
+    width: 100%;
+    background: rgb(0, 0, 84);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#strip u{
+    margin-left: 30px;
+}
+
+#content{
+    height: 75%;
+    width: 100%;
+    display: flex;
+    background: white;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#box1{
+    height: 90%;
+    width: 47%;
+    background: white;
+}
+#box1 h1{
+    font-weight: 600;
+    color: rgb(0, 0, 77);
+    padding: 20px 10px;
+    font-size: 50px;
+}
+
+#box1 p{
+    padding: 20px 10px;
+    font-size: x-large;
+    margin: 10px;
+    font-weight: normal;
+}
+
+#btns{
+    display: flex;
+
+}
+#btn1{
+    margin: 10px;
+    background: rgb(7, 127, 232);
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    height: 50%;
+}
+#btn1:hover{
+    background: rgb(1, 1, 78);
+}
+
+#btn2:hover{
+    background: rgb(114, 194, 221);
+    color: rgb(1, 1, 78);
+    border-color: rgb(1, 1, 78);
+}
+
+
+#btn2{
+    margin: 10px;
+    border: 2px solid  rgb(7, 127, 232);
+    color: rgb(7, 127, 232);
+    border-radius: 5px;
+    text-align: center;
+    height: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+#box2{
+    height: 90%;
+    width: 47%;
+    background: grey;
+}
+
+#box2 img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+#footer{
+    height: 16%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 0, 59);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#page2{
+    height: 87%;
+    width: 100%;
+    background: grey;
+}
+
+.texts{
+
+    color: rgba(0, 0, 70, 0.918);
+    display: flex;
+}
+.texts.texts:hover{
+    color: lightskyblue;
+}
+
+#contact{
+    font-weight: lighter;
+}
+
+.logo{
+    padding: 7px;
+    border-radius: 50%;
+}
+.logo:hover{
+    background: lightcoral;
+}
+
+#login{
+    display: flex;
+    padding: 10px;
+    border-radius: 50%;
+}
+#login:hover{
+    background: lightskyblue;
+}
+
+#try{
+    background: green;
+    padding: 10px 20px;
+    color: white;
+}
+#try:hover{
+    background: #000;
+}
