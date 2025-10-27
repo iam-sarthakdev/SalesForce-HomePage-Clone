@@ -1,8 +1,20 @@
 # 🌐 Salesforce Homepage Clone
 
 This project is a **Salesforce Landing Page Clone** built using **HTML and CSS**.  
-It recreates the look and feel of the official Salesforce homepage with a clean layout, navigation bar, hero section, and interactive buttons.  
-This project helped me strengthen my understanding of **frontend web design, alignment, and responsive styling**.
+It recreates the look and feel of the official Salesforce homepage with a clean layout, navigation bar, and call-to-action buttons.  
+It’s a beginner-friendly project that focuses on mastering front-end structure, styling, and responsiveness.
+
+---
+
+## 🧠 About This Project
+The goal of this project was to **recreate the Salesforce homepage** using only **HTML and CSS**, without any frameworks.  
+By building this, I learned:
+- How professional websites use layout grids and alignment (Flexbox & positioning)
+- How to structure sections like hero banners, navigation bars, and CTAs
+- How to design visually appealing, minimal UIs
+- The importance of spacing, typography, and color balance in front-end design
+
+This project helped me take a major step toward becoming a **front-end web developer** and understanding real-world website layouts.
 
 ---
 
